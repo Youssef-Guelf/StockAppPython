@@ -1,0 +1,13 @@
+This is an application which is develloped by python (tkinter) and it's used for managing material for the companie and keep a trasability.
+
+It has a mysql database and a login interface for three type of users (user, approbators, administrator)
+
+If a user seaks a material, he has to ask for it first and then the approbator will see if he affects that material for that user.
+
+The administrator can only manage the approbators and change he's personnal data.
+
+The approbators manage the CRUD of the material and the users.
+
+And the Users can only ask for the material and give it back.
+
+For source code ask: youssefguelfout@gmail.com
